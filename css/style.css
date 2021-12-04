@@ -24,4 +24,28 @@ html{
 body{
        font-size: 1.5rem;
        font-family: 'Poppins', sans-serif;
+       background-color: var(--Very-Light-Gray);
+}
+main{
+       width: calc(100% - 70px);
+       margin: 0 auto;
+       padding: 7rem 0;
+}
+header{
+       text-align: center;
+}
+header h2{
+       font-size: 3rem;
+       font-weight: 300;
+       color: var(--Very-Dark-Blue);
+       margin-bottom: 2rem;
+}
+header h2 span{
+       font-weight: 600;
+}
+header p{
+       font-size: 2rem;
+       font-weight: 400;
+       color: var(--Grayish-Blue);
+       margin-bottom: 2rem;
 }
