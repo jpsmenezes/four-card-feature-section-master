@@ -27,9 +27,11 @@ body{
        background-color: var(--Very-Light-Gray);
 }
 main{
+       max-width: 1060px;
        width: calc(100% - 70px);
        margin: 0 auto;
        padding: 7rem 0;
+
 }
 header{
        text-align: center;
@@ -45,15 +47,17 @@ header h2 span{
        font-weight: 600;
 }
 header p{
+       max-width: 50rem;
        font-size: 1.5rem;
        font-weight: 400;
-       color: var(--Grayish-Blue);
-       margin-bottom: 7rem;
+       color: var(--Grayish-Blue);       
+       margin: 0 auto 7rem;
 }
 section article{      
        position: relative; 
-       max-width: 100%;
+       min-width: 31.5rem;
        height: 23rem;      
+       margin: 0 auto;
        margin-bottom: 3rem;       
        padding: 2.5rem 3rem 0;  
        border-radius: 0.5rem; 
@@ -87,4 +91,13 @@ section article img{
        right: 3rem;
        bottom: 3rem;
        width: 6rem;
+}
+@media screen and (min-width: 1075px){
+       section{
+              display: flex;
+              align-items: center;
+       }
+       section article{
+           max-width:31.5rem ;  
+       }
 }
