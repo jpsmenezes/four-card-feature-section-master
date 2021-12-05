@@ -22,11 +22,12 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshot.jpg)
+![desktop-design](https://user-images.githubusercontent.com/92182457/144730747-e6f71234-4dd6-4f57-86d6-a844841e42af.jpg)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/fourcardfeaturesectionmaster-html-and-css-0VNwfilp8)
+- Live Site URL: [four-card-feature-section-master](https://jpsmenezes.github.io/four-card-feature-section-master/)
 
 ## My process
 
@@ -35,6 +36,5 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 
