@@ -22,6 +22,7 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshot.jpg)
+![desktop-design](https://user-images.githubusercontent.com/92182457/144730747-e6f71234-4dd6-4f57-86d6-a844841e42af.jpg)
 
 ### Links
 
